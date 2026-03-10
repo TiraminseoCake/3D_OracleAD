@@ -16,7 +16,7 @@ See data/README.md
 python3 src/runners/oraclead_npz_runner_2d_paper.py \
   --input_dir <processed/SMD> \
   --dataset SMD \
-  --out_dir runs/oraclead_smd_2d
+  --~~~_paper.py 가 논문 형식따른 코드
 
 ## Multi-GPU (SMD split)
 bash scripts/run/run_smd_all_split2gpu.sh residual
