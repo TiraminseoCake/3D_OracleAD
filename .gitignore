@@ -1,0 +1,23 @@
+# data & outputs
+data/**
+runs/**
+*.npz
+*.npy
+*.csv
+*.tar.gz
+
+# cloned repos / large dirs
+OmniAnomaly/**
+RANSynCoders/**
+SMAP/**
+meta/**
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# logs
+*.log
