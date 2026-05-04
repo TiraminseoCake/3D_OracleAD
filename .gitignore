@@ -21,3 +21,21 @@ venv/
 
 # logs
 *.log
+
+# Experiment outputs
+runs/
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data files
+*.npz
+data/
+
+# Temporary
+github_upload/
+auto_ablation_after_current.sh
+nohup.out
